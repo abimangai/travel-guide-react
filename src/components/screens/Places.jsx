@@ -287,7 +287,7 @@ const LocationIcon = styled.img`
 `;
 
 const LocationName = styled.span`
-    font-size: 20px;
+    font-size: 16px;
     color: #777;
     font-weight: 500;
 
